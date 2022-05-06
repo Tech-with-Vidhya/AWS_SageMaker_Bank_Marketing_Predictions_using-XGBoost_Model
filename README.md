@@ -1,2 +1,1 @@
-# DL-P1
-DL-P1
+# AWS_SageMaker_Bank_Marketing_Predictions_using XGBoost_Model
